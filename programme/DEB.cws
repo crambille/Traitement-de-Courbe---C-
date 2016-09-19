@@ -1,0 +1,165 @@
+[Workspace Header]
+Version = 910
+Pathname Line0001 = "/c/Documents and Settings/machine/My Documents/ProjetAllyssa/decembre-janvier/pr"
+Pathname Line0002 = "ojet5/others/DEB.cws"
+CVI Dir = "/c/program files/national instruments/cvi2009"
+CVI Shared Dir = "/C/Program Files/National Instruments/Shared/CVI"
+CVI Pub Local Dir Line0001 = "/C/Documents and Settings/All Users/Application Data/National Instruments/CVI200"
+CVI Pub Local Dir Line0002 = "9"
+CVI Pub Global Dir = "/C/Documents and Settings/All Users/Application Data/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "DEB.prj"
+Drag Bar Left = 381
+Window Top = 159
+Window Left = 140
+Window Bottom = 925
+Window Right = 1572
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 6
+Window Confinement Region Enabled = True
+MainColumnWidth = 364
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 910
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Build Platform = "Intel 32-bit"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path Line0001 = "/c/Documents and Settings/machine/My Documents/ProjetAllyssa/decembre-janvier/pr"
+Path Line0002 = "ojet5/others/DEB2.uir"
+File Type = "User Interface Resource"
+Disk Date = 3557116527
+In Projects = "1,"
+Window Top = 71
+Window Left = 30
+Window Height = 349
+Window Width = 683
+Window Z-Order = 4
+
+[File 0002]
+Path Line0001 = "/c/Documents and Settings/machine/My Documents/ProjetAllyssa/decembre-janvier/pr"
+Path Line0002 = "ojet5/others/functions.c"
+File Type = "CSource"
+Disk Date = 3557116753
+In Projects = "1,"
+Window Top = 209
+Window Left = 102
+Window Z-Order = 2
+Source Window State = "1,2438,2438,2438,21,29,29,0,0,80,0,1149,0,0,0,25,2861,0,2863,16,349,683,1,0,"
+
+[File 0003]
+Path Line0001 = "/c/Documents and Settings/machine/My Documents/ProjetAllyssa/decembre-janvier/pr"
+Path Line0002 = "ojet5/others/utilities.c"
+File Type = "CSource"
+Disk Date = 3505467166
+In Projects = "1,"
+Window Top = 140
+Window Left = 66
+Window Z-Order = 1
+Source Window State = "1,734,734,734,18,19,19,0,0,156,0,605,0,5,0,40,688,0,741,21,349,683,1,13,"
+Breakpoint 0001 = "644,0,disabled,"
+
+[File 0004]
+Path Line0001 = "/c/Documents and Settings/machine/My Documents/ProjetAllyssa/decembre-janvier/pr"
+Path Line0002 = "ojet1/arrondir.c"
+File Type = "CSource"
+Disk Date = 3505376563
+In Projects = "1,"
+Window Top = 117
+Window Left = 54
+Window Z-Order = 3
+Source Window State = "1,14,94,14,0,50,0,0,0,80,0,0,0,0,0,25,191,0,34,19,349,683,1,13,"
+Breakpoint 0001 = "30,0,enabled,"
+Breakpoint 0002 = "66,0,enabled,"
+
+[File 0005]
+Path Line0001 = "/c/Documents and Settings/machine/My Documents/ProjetAllyssa/decembre-janvier/pr"
+Path Line0002 = "ojet5/log.c"
+File Type = "CSource"
+Disk Date = 3503636427
+In Projects = "1,"
+Window Top = 94
+Window Left = 42
+Window Z-Order = 5
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,239,0,0,0,23,0,0,283,0,323,683,1,13,"
+
+[File 0006]
+Path Line0001 = "/c/Documents and Settings/machine/My Documents/ProjetAllyssa/decembre-janvier/pr"
+Path Line0002 = "ojet5/others/utilities.h"
+File Type = "Include"
+Disk Date = 3505363378
+In Projects = "1,"
+Window Top = 163
+Window Left = 78
+Window Z-Order = 6
+Source Window State = "1,54,57,57,0,42,42,0,0,80,0,36,0,0,0,25,66,0,120,51,349,683,1,20,"
+
+[File 0007]
+Path Line0001 = "/c/Documents and Settings/machine/My Documents/ProjetAllyssa/decembre-janvier/pr"
+Path Line0002 = "ojet5/others/DEB2.h"
+File Type = "Include"
+Disk Date = 3557116527
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+
